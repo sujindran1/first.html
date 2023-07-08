@@ -1,0 +1,44 @@
+*element.style {
+}
+html.step8 h1,
+html.step8 h2,
+html.step8 strong {
+  font-weight: 500;
+}
+html.step4 h1,
+html.step4 h2,
+html.step4 strong {
+  color: #333;
+}
+html.step3 h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+user agent stylesheet h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+html.step8 body {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  -moz-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+html.step7 body {
+  background: white;
+  color: #566b78;
+}
+html.step4 body {
+  color: #555;
+}
+html.step3 body {
+  line-height: 1.5;
+  padding: 4em 1em;
+}
+html.step2 body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
